@@ -1,36 +1,16 @@
-# sprunki
+# [Sprunki](https://sprunki.io/)
 
-Sprunki: https://sprunki.io/
+URL: https://sprunki.io/
 
-Play Sprunki Incredibox Game
---------------------------
+```
+$ npm install -g sprunki
+$ sprunki
+```
 
-#### Rhythm Master
+npm package: [sprunki](https://www.npmjs.com/package/sprunki) [sprunki](https://npmmirror.com/package/sprunki)<br>
+gitbook documentation: [https://repdoc.gitbook.io/sprunki](https://repdoc.gitbook.io/sprunki)
 
-Test your musical skills in this addictive rhythm game.
-
-[Rhythm Master](https://sprunki.io/#rhythm-master)
-
-#### Melody Maker
-
-Create your own tunes with this interactive music composer.
-
-[Melody Maker](https://sprunki.io/#melody-maker)
-
-#### Beat Battles
-
-Compete against others in real-time music challenges.
-
-[Beat Battles](https://sprunki.io/#beat-battles)
-
-#### Incredibox - Sprunki
-
-an innovative and interactive music creation game
-
-[Sprunki Incredibox](https://sprunki.io/)
-
-Sprunki Incredibox Game Features
---------------------------------
+## Sprunki Incredibox Game Features
 
 Explore the amazing features that make Sprunki Incredibox a must-play game!
 
@@ -58,8 +38,7 @@ Adds unique sound effects and transitions, enriching the depth and fun of musica
 
 Allows players to easily share their musical creations and engage with other players for inspiration and collaboration.
 
-How to Play Sprunki Incredibox
-------------------------------
+## How to Play Sprunki Incredibox
 
 Follow these easy steps to dive into the world of Sprunki Incredibox!
 
@@ -81,15 +60,13 @@ Once you’re on the platform, choose your quirky characters and sounds. Each op
 
 Now that you've selected your sounds and characters, it's time to start creating sprunky beats! Mix and match the sounds to make distinct rhythm patterns. Enjoy the process, share your creations, and unleash your inner musical maverick!
 
-Ready to Play Sprunki Incredibox Game?
---------------------------------------
+## Ready to Play Sprunki Incredibox Game?
 
-### Join the fun today and start creating your unique beats. Let your creativity shine with Sprunki Incredibox!
+Join the fun today and start creating your unique beats. Let your creativity shine with Sprunki Incredibox!
 
-[Play for Free](https://sprunki.io/#main)
+Play for Free: [Sprunki](https://sprunki.io/)
 
-What Sprunki Players Say
-------------------------
+## What Sprunki Players Say
 
 Discover what players love about their Sprunki Incredibox experience!
 
@@ -113,8 +90,7 @@ Music Enthusiast
 
 “Playing Sprunki Incredibox has been a game-changer for me. The character designs and unique beats make it incredibly enjoyable. It's a must-try for anyone who loves music!,,
 
-Frequently Asked Questions about Sprunki Incredibox
----------------------------------------------------
+## Frequently Asked Questions about Sprunki Incredibox
 
 Explore our FAQs to learn more about Sprunki Incredibox!
 
